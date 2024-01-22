@@ -1,0 +1,20 @@
+img{
+    width: 50px;
+    height: 50px;
+}
+form{
+    background-color: white;
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 70px;
+    font-family:"Bell MT";
+}
+.x{
+    display: flex;
+}
